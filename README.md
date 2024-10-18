@@ -156,8 +156,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to me via [GitHub](https://github.com/ItsOrv).
-
----
-
-Feel free to customize any sections or add more details as needed. This README is designed to give users a clear understanding of the project, how to get started, and the structure of the code.
+For any inquiries or feedback, please reach out to me via [Telegram](https://t.me/Pouria_Orv).

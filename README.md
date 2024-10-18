@@ -1,7 +1,5 @@
 # AI Trade Signals
 
-![Project Logo](https://via.placeholder.com/150)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
